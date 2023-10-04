@@ -186,9 +186,9 @@ ul li a {
   font-family: sans-serif;
   text-align: center;
   color: #ff7200;
+  border-bottom: 2px solid #fff;
   font-size: 22px;
-  background-color: #fff;
-  border-radius: 10px;
+  /* border-radius: 10px; */
   margin: 2px;
   padding: 8px;
 }
